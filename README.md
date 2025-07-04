@@ -27,9 +27,9 @@ The system simulates an e-commerce checkout process, including product validatio
 ## 📁 Project Structure
 
 src/
-├── model/ → All product, customer, and interface classes
-├── service/ → Cart, CheckoutService, ShippingService
-├── app/ → Main.java (test cases and demo)
+ model/ → All product, customer, and interface classes
+ service/ → Cart, CheckoutService, ShippingService
+ app/ → Main.java (test cases and demo)
 
 ## 🧪 Test Cases
 
