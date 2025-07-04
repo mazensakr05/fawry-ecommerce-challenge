@@ -22,14 +22,6 @@ The system simulates an e-commerce checkout process, including product validatio
   - Print formatted receipt
 - Ship valid shippable items with total weight summary
 
----
-
-## 📁 Project Structure
-
-src/
- model/ → All product, customer, and interface classes
- service/ → Cart, CheckoutService, ShippingService
- app/ → Main.java (test cases and demo)
 
 ## 🧪 Test Cases
 
@@ -68,13 +60,10 @@ Shipping: 708.00
 Total: 3108.00
 Balance after payment: 1892.00
 
-yaml
-Copy
-Edit
 
 ---
 
 ## 🙋 Author
 
-Developed by [Your Name]  
+Developed by mazen mohamed   
 Fawry Rise Journey Applicant – Full Stack Development Track
